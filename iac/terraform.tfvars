@@ -1,0 +1,5 @@
+prefix = "st19piotr"
+location = "westeurope"
+rgname = "rgsmstst19"
+dbadmin = "demoadmin"
+dbadminpass = "Passw0rd1!123"
